@@ -1,0 +1,24 @@
+{
+  "name": "butter",
+  "version": "0.0.1",
+  "description": "Kaska Miskolczi, Perl, Open Source, Designer, Developer, CTO, CISO, Serverless, Azure",
+  "main": "index.js",
+  "authors": {
+    "name": "Kaska Miskolczi",
+    "email": "felenknyuszika@gmail.com"
+  },
+  "repository": "git@github.com:felenk/legendary-waffle.git/butter",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@vuepress/plugin-search": "^1.8.2",
+    "pug": "^3.0.2",
+    "pug-plain-loader": "^1.1.0",
+    "vuepress": "^1.5.3",
+    "vuepress-plugin-clean-urls": "^1.1.2",
+    "vuepress-plugin-container": "^2.1.5"
+  }
+}
