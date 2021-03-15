@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /assets/hero.jpeg
+heroImage: https://felenk.github.io/legendary-waffle/assets/hero.jpeg
 tagline: Kaska Miskolczi, Perl, Open Source, Designer, Developer, CTO, CISO, Serverless, Azure
 actionText: Quick Start →
 actionLink: /guide/
