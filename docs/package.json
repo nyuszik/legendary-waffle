@@ -1,5 +1,5 @@
 {
-  "name": "butter",
+  "name": "legendary-waffle",
   "version": "0.0.1",
   "description": "Kaska Miskolczi, Perl, Open Source, Designer, Developer, CTO, CISO, Serverless, Azure",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "name": "Kaska Miskolczi",
     "email": "felenknyuszika@gmail.com"
   },
-  "repository": "git@github.com:felenk/legendary-waffle.git/butter",
+  "repository": "git@github.com:felenk/legendary-waffle.git/",
   "scripts": {
     "dev": "vuepress dev src",
     "build": "vuepress build src"
