@@ -1,0 +1,9 @@
+{
+  "name": "legendary-waffle",
+  "version": "1.0.0",
+  "description": "template with notes for whenever I need a plain AF nodejs instance",
+  "main": "server.js",
+  "repository": "git@github.com:felenk/legendary-waffle.git",
+  "author": "Kaska <felenknyuszika@gmail.com>",
+  "license": "BSD-2-Clause"
+}
